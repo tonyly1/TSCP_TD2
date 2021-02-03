@@ -1,0 +1,8 @@
+﻿  board.c
+D:\Travails\IA\TD2\Code\board.c(566,20): warning C4018: '<=' : incompatibilité signed/unsigned
+  Génération de code en cours
+  6 of 51 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Project1.vcxproj -> D:\Travails\IA\TD2\TD2\x64\Release\Project1.exe

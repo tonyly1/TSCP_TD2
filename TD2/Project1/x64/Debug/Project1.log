@@ -1,0 +1,6 @@
+﻿  board.c
+D:\Travails\IA\TD2\Code\board.c(61,1): warning C4142: 'hash_rand' : redéfinition bénigne du type
+D:\Travails\IA\TD2\Code\protos.h(14): message : voir la déclaration de 'hash_rand'
+D:\Travails\IA\TD2\Code\board.c(590,20): warning C4018: '<=' : incompatibilité signed/unsigned
+D:\Travails\IA\TD2\Code\board.c(613): warning C4716: 'getTT' : doit retourner une valeur
+  Project1.vcxproj -> D:\Travails\IA\TD2\TD2\x64\Debug\Project1.exe
